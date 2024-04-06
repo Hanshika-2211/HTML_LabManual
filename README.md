@@ -1,5 +1,7 @@
 # HTML and CSS Files README
 
+Link for Lab_Manual: [LabManual](https://docs.google.com/document/d/1Ki3Pe512_yOwwrJvI4FO-EKLqhlzKn-ylEuz1bLD78A/edit?usp=share_link)
+
 This repository contains a collection of HTML and CSS files for various web page designs and components.
 
 ## Files Overview:
